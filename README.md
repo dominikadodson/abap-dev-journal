@@ -6,14 +6,14 @@ I started learning ABAP in May 2025 to deepen my understanding of application de
 
 ---
 
-## Structure
+## 📘 Structure
 
 This repository is organized by topic or learning milestone. Each folder includes:
 - Source code or code snippets
 - Notes or explanations
 - Learnings or challenges I faced
 
-## Folder Overview
+### Folder Overview
 
 | Folder                   | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -28,7 +28,7 @@ This repository is organized by topic or learning milestone. Each folder include
 
 ---
 
-## Goals
+## 💡 Goals
 
 - Build hands-on experience with ABAP and RAP
 - Practice clean, maintainable code
@@ -37,7 +37,7 @@ This repository is organized by topic or learning milestone. Each folder include
 
 ---
 
-## Tools & Environment
+## 🔧 Tools & Environment
 
 - ABAP in Eclipse (ADT)
 - SAP BTP ABAP Environment (Steampunk)
@@ -45,7 +45,7 @@ This repository is organized by topic or learning milestone. Each folder include
 
 ---
 
-## Notes
+## 🗒️ Notes
 
 This is not a tutorial repository—it's a personal log. That said, I hope it can inspire or help others who are also learning ABAP!
 
