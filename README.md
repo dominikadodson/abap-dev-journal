@@ -13,16 +13,18 @@ This repository is organized by topic or learning milestone. Each folder include
 - Notes or explanations
 - Learnings or challenges I faced
 
-### Folder Overview
+## Folder Overview
 
-| Folder | Description |
-|--------|-------------|
-| `01_syntax_basics/` | Simple ABAP syntax and starter exercises |
-| `02_local_classes/` | Practice with classes, methods, and visibility |
-| `03_cds_views/` | CDS view definitions, associations, annotations |
-| `04_abap_unit_testing/` | Unit test practice using test classes and test doubles |
-| `05_rap_basics/` | My first RESTful ABAP Programming (RAP) apps |
-| `06_misc_experiments/` | Smaller challenges, trials with AI tools, or SAP Build integrations |
+| Folder                   | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `01_syntax_basics/`      | Simple ABAP syntax, control structures, and starter exercises               |
+| `02_local_classes/`      | Practice with local classes, methods, and object-oriented programming       |
+| `03_cds_views/`          | CDS view definitions, associations, annotations, and modeling concepts      |
+| `04_rap_basics/`         | My first RESTful ABAP Programming (RAP) applications and behavior definitions |
+| `05_abap_unit_testing/`  | Unit test practice using test classes, test doubles, and assertions         |
+| `06_misc_experiments/`   | Smaller challenges, SAP Build integrations, and other learning side projects|
+| `07_ai_features_joule/`  | Exploring Joule for Developers, AI-assisted ABAP tools, and intelligent features |
+
 
 ---
 
